@@ -35,7 +35,3 @@ curl http://localhost:3000/customer?tenantId=2&customer=kamau
 > NOTE:  Multi-tenant database architecture can be used for both single-tenant and multi-tenant applications.
       - Single-tenant applications can use single-tenant database architecture.
       - Multi-tenant applications can use multi-tenant database architecture.
-
-## References
-
-- [Multi-tenant Database Architecture](https://www.mongodb.com/languages/multi-tenant-database-architecture)

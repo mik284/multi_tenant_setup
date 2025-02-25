@@ -1,0 +1,12 @@
+{
+  "name": "multi_tenant",
+  "version": "1.0.0",
+  "description": "multi tenant database architecture using nodejs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["multi-tenant", "nodejs", "mongodb", "database"],
+  "author": "michaelkamau",
+  "license": "ISC"
+}
